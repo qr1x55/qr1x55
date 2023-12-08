@@ -3,10 +3,13 @@
 
 - 👯 В настоящий момент закончил обучения в Я.Практикум в рамках которого прошёл обучение по **JavaScript, HTML, CSS, React, NODE.js**
 
+- 🔭 Нахожусь в поиске своего первого **коммерческого проекта**
+
 - 🌱 В планах на изучение **VUE, TypeScript, Redux**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Связь со мной:</h3>
 <p align="left">
+<a href="https://t.me/qr1xd" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="https://t.me/qr1xd" height="30" width="40" /></a>
 <a href="https://discord.gg/qr1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qr1x" height="30" width="40" /></a>
 </p>
 
