@@ -1,7 +1,7 @@
 <h1 align="center">Привет👋, меня зовут Роман</h1>
 <h3 align="center">Разработчик Playable ADS(Cocos) из России</h3>
 
-- 🌱 В планах на изучение **Vue, Redux**
+🌱 В планах на изучение **Vue, Redux**
 
 
 <h3 background="white" align="left">Связь со мной:</h3>
