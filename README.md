@@ -1,5 +1,5 @@
 <h1 align="center">Привет👋, меня зовут Роман</h1>
-<h3 align="center">Разработчик Playable Ads (Cocos Creator) из России</h3>
+<h3 align="center">Разработчик Playable Ads из России</h3>
 
 
 <h3 background="white" align="left">Связь со мной:</h3>
